@@ -50,5 +50,7 @@ You can see the middleware file at the root of this repo.
 
 ## Supabase
 
-I am using supabase as my backend so that users can have an authenticated and authorized application to create their personal apps in order to go to market in a digital way.
+I am using supabase as my backend so that users can have an authenticated and authorized application to create their personal apps to go to market digitally. 
+
+You can set up your own supabase backend and use it in the same way. 
 
